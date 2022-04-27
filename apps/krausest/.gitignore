@@ -7,6 +7,9 @@
 !/apps/covid/index.html
 !/apps/covid/**/*.mjs
 !/apps/covid/neo-config.json
+!/apps/myapp/index.html
+!/apps/myapp/**/*.mjs
+!/apps/myapp/neo-config.json
 !/apps/krausest/index.html
 !/apps/krausest/**/*.mjs
 !/apps/krausest/neo-config.json
